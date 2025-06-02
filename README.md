@@ -22,8 +22,7 @@ This is a modern, well-polished version of the classic Snake game built with Pyt
 **Clone the repository**
 
 
-git clone https://github.com/your-username/snake-game-pygame.git
-cd snake-game-pygame
+git clone https://github.com/Simranrath30/Snake-Game-using-PyGame.git
 
 
 **run**
