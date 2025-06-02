@@ -31,11 +31,12 @@ git clone https://github.com/Simranrath30/Snake-Game-using-PyGame.git
 python main.py
 
 2. Run the SnakeGame.rar file :
- Extract the .rar file using WinRAR or any unzip tool.
+
+Extract the .rar file using WinRAR or any unzip tool.
 
 
- Double-click on SnakeGame.exe to launch the game.
+Double-click on SnakeGame.exe to launch the game.
 
 
- No Python installation required – Just run and play!
+No Python installation required – Just run and play!
 
